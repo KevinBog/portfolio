@@ -9,9 +9,7 @@ Ik ben Kevin, een MBO 4 ICT-student met een passie voor **Linux**, **netwerkbehe
 - ✅ GitHub-portfolio opzetten
 - ✅ HTML-projecten centraliseren
 - 🔲 Meedoen aan mijn eerste CTF
-- 🔲 Stage vinden in cybersecurity of DevOps
 - 🔲 Eigen Linux-tool of script publiceren
-- 🔲 Doorgroeien naar HBO-ICT
 
 ---
 
@@ -19,7 +17,7 @@ Ik ben Kevin, een MBO 4 ICT-student met een passie voor **Linux**, **netwerkbehe
 
 | Project                     | Status  | Technologieën             | Link                                           |
 |-----------------------------|---------|----------------------------|------------------------------------------------|
-| HTML portfolio              | ✅ Klaar | HTML, GitHub Pages         | [Website](https://kevinbog.github.io/html-cursus-projecten) |
+| HTML portfolio              | 🔄 Bezig | HTML, GitHub Pages         | [Website](https://kevinbog.github.io/html-cursus-projecten) |
 | Cisco Packet Tracer labs    | 🔄 Bezig | Cisco PT, netwerken        | Binnenkort online                              |
 | Bash systeemcheck script    | 🔜 Start | Linux, Bash                | -                                              |
 | Hacking oefeningen          | 🔜 Start | TryHackMe, HackTheBox      | -                                              |
@@ -28,10 +26,10 @@ Ik ben Kevin, een MBO 4 ICT-student met een passie voor **Linux**, **netwerkbehe
 
 ## 📘 Cursussen & bronnen
 
-- 🎓 [Udemy Ethical Hacking Beginner](https://www.udemy.com/) *(bezig)*
-- 🎓 Cisco NetAcad Intro to Networks *(bezig)*
-- ✅ YouTube Linux-basics
-- 🔖 Boek: *The Phoenix Project* *(plannen)*
+- 🎓 [Udemy] Ultimate IT Support Course for Technical Skills
+- 🎓 [Udemy] Cisco CCNA 200-301 – The Complete Guide to Getting Certified
+- 🔖 Boek: *The Phoenix Project
+- 🔖 Boek: *Linux Basics For Hackers
 
 ---
 
@@ -41,10 +39,10 @@ Ik ben Kevin, een MBO 4 ICT-student met een passie voor **Linux**, **netwerkbehe
 - Cisco Packet Tracer bestanden met uitleg
 - Bash scripts en Linux-hulpmiddelen
 - Documentatie bij elk project
-- Een blogsectie (optioneel)
+- Een blogsectie
 
 ---
 
 📬 **Connect met mij**
-- LinkedIn: _[voeg je link toe]_
+- LinkedIn: https://www.linkedin.com/in/kevin-bogaert-898743362/
 - GitHub: [github.com/KevinBog](https://github.com/KevinBog)
