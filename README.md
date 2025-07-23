@@ -7,7 +7,7 @@ Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor:
 - 🔐 Ethisch hacken en cybersecurity  
 - 💻 Front-end: HTML, CSS & JavaScript  
 - 🐍 Python & automatisering  
-- 🖥️ Servers en systeemprebeheer  
+- 🖥️ Servers en systeembeheer  
 
 ---
 
