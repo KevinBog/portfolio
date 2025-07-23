@@ -64,6 +64,9 @@ Mijn eigen GitHub Pages site met HTML-projecten:
 - 🌐 **HTML-projecten verbeteren**  
   Mijn bestaande projecten verbeteren met nieuwe technieken en design.
 
+- 🎓 Ambitie  
+  Doorstromen naar het HBO om mijn kennis en vaardigheden verder te ontwikkelen.
+
 ---
 
 ## 📫 Contact
