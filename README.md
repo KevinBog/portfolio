@@ -1,39 +1,66 @@
-# 👋 Welkom op mijn Portfolio
+# 👋 Welkom op mijn GitHub-profiel!
 
-Ik ben Kevin, een MBO 4 ICT-student met een passie voor Linux, netwerkbeheer, Cisco Packet Tracer en ethisch hacken. Op deze pagina verzamel ik al mijn projecten, leerdoelen en praktijkervaring.
+Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor:
+
+- 🐧 Linux & bash-scripting  
+- 🌐 Netwerkbeheer met Cisco Packet Tracer  
+- 🔐 Ethisch hacken en cybersecurity  
+- 💻 Front-end: HTML, CSS & JavaScript  
+
+---
+
+## 🌱 Waar ik aan werk
+
+🧩 **Portfolio Website**  
+Mijn eigen GitHub Pages site met HTML-projecten:  
+🔗 [Bekijk hier mijn projecten](https://kevinbog.github.io/html-cursus-projecten/)
+
+🧠 **Kennis uitbreiden via cursussen**  
+- Udemy: Netwerken, bash, ethisch hacken  
+- YouTube & leerboeken  
+
+---
+
+## 📦 Wat binnenkort online komt
+
+- 📂 Cisco Packet Tracer labs + uitleg  
+- 🧪 Bash scripts & systeemchecks  
+- 📘 Markdown samenvattingen  
+
+---
 
 ## 🚀 Doelen voor 2025
 
-- ✅ GitHub-portfolio opzetten  
-- ✅ HTML-projecten centraliseren  
-- 🔲 Meedoen aan mijn eerste CTF  
-- 🔲 Eigen Linux-tool of script publiceren  
+- ✅ GitHub portfolio opzetten  
+- ⏳ Meedoen aan mijn eerste CTF (Hack The Box / TryHackMe)  
 
-## 🛠️ Lopende projecten
+---
 
-| Project               | Status    | Technologieën           | Link            |
-|-----------------------|-----------|------------------------|-----------------|
-| HTML portfolio        | 🔄 Bezig  | HTML, GitHub Pages     | Website         |
-| Cisco Packet Tracer labs | 🔄 Bezig | Cisco PT, netwerken    | Binnenkort online |
-| Bash systeemcheck script | 🔜 Start | Linux, Bash            | -               |
-| Hacking oefeningen    | 🔜 Start  | TryHackMe, HackTheBox  | -               |
+## 🗓️ Plannen voor de toekomst
 
-## 📘 Cursussen & bronnen
+- 📚 **Udemy-cursus afronden**  
+  Een uitgebreid verslag schrijven over wat ik geleerd heb en dit toevoegen aan mijn portfolio.
 
-- 🎓 [Udemy] Ultimate IT Support Course for Technical Skills  
-- 🎓 [Udemy] Cisco CCNA 200-301 – The Complete Guide to Getting Certified  
-- 🔖 Boek: *The Phoenix Project*  
-- 🔖 Boek: *Linux Basics For Hackers*  
+- 📖 **Boeken uitlezen & verslagen schrijven**  
+  - *The Phoenix Project*  
+  - *Linux Basics For Hackers*  
+  Boekverslagen toevoegen aan mijn portfolio voor extra verdieping.
 
-## 📝 Wat ik nog ga toevoegen
+- 🧠 **Cisco Packet Tracer verslag schrijven**  
+  Mijn werkwijze, netwerkopbouw en leerpunten samenvatten in een duidelijk verslag.
 
-- Een net gestylede homepage met CSS/JavaScript  
-- Cisco Packet Tracer bestanden met uitleg  
-- Bash scripts en Linux-hulpmiddelen  
-- Documentatie bij elk project  
-- Een blogsectie  
+- 🐍 **Python & andere scripts ontwikkelen**  
+  Zelfgemaakte scripts toevoegen aan mijn portfolio, met uitleg en gebruiksvoorbeelden.
 
-## 📬 Connect met mij
+- 🌐 **HTML-projecten verbeteren**  
+  Mijn bestaande projecten verbeteren met nieuwe technieken en design.
 
-- LinkedIn: [Kevin Bogaert](https://www.linkedin.com/in/kevin-bogaert-898743362/)  
-- GitHub: [github.com/KevinBog](https://github.com/KevinBog)  
+---
+
+## 📫 Contact
+
+- 📎 [LinkedIn](https://www.linkedin.com/in/kevin-bogaert-898743362/)
+
+---
+
+Bedankt voor je bezoek! ⭐ Vergeet niet m’n projecten te checken.
