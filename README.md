@@ -7,6 +7,8 @@ Neem gerust een kijkje en ontdek wat ik tot nu toe heb gerealiseerd!
 
 ---
 
+Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor:
+
 - 🐧 Linux & bash-scripting  
 - 🌐 Netwerkbeheer met Cisco Packet Tracer  
 - 🔐 Ethisch hacken en cybersecurity  
