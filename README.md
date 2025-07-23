@@ -1,6 +1,11 @@
-# 👋 Welkom op mijn GitHub-profiel!
+# 📁 Kevin’s ICT Portfolio
 
-Ik ben **Kevin**, een MBO 4 ICT-student met een passie voor:
+Welkom op mijn portfolio!  
+Hier vind je een overzicht van mijn ICT-projecten, scripts, verslagen en praktijkervaringen.  
+Dit is mijn digitale werkboek waarin ik mijn groei als ICT-student documenteer.  
+Neem gerust een kijkje en ontdek wat ik tot nu toe heb gerealiseerd!
+
+---
 
 - 🐧 Linux & bash-scripting  
 - 🌐 Netwerkbeheer met Cisco Packet Tracer  
